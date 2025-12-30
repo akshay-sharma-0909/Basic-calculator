@@ -28,7 +28,6 @@ Languages Used:
 HTML, CSS, JavaScript
 
 #OUTPUT
-![Image](<img width="1907" height="909" alt="Screenshot 2025-12-29 195018" src="https://github.com/user-attachments/assets/e9691572-e3e0-46ae-8ffa-ddbe239ed637" />
-)
+<img width="1907" height="909" alt="Image" src="https://github.com/user-attachments/assets/41904076-c7d4-4f5f-b80a-18ce63ed3aae" />
 
 
