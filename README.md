@@ -11,10 +11,16 @@ DURATION:12 WEEKS
 
 HR Manager: Drishti Madaan
 
-I recently created a weather app for my 1st internship project at codtech. my goal was to design a response weather app that provides users with real-time weather information. this app allows users to access accurate weather data for any location in the city.
+I recently created a Basic Calculator  for my 1st internship project at unified mentor. my goal was to design a response Calculator that provides users with correct operation  information. 
 
-Highlights Modern Design: The app features a sleek and modern design, with a clean user interface and dynamic weather icons that reflect different weather conditions. Real-Time Weather Data: The app pulls live weather data from an external API, providing users with up-to-date information on temperature, humidity, wind speed, and weather conditions. Responsive Layout: The app is fully responsive, ensuring a smooth user experience across various devices, from desktops to smartphones. Javascript: JavaScript is used to implement interactive features like location search, dynamic weather updates, and unit switching for temperature and wind speed.
+Highlights Modern Design: The app features a sleek and modern design, with a clean user interface and dynamic  icons that reflect different operation . 
+Data: This will take input from  user or conditions and perfrom the required operation that user want to perform.
+Responsive Layout: The app is fully responsive, ensuring a smooth user experience across various devices, from desktops to smartphones.
+Javascript: JavaScript is used to implement interactive features like Addition ,Substraction ,Multiplication and division.
 
 language used HTML ,CSS ,JAVASCRIPT
 
 #OUTPUT
+![Image](</"https://github.com/user-attachments/assets/49a0c160-eae3-4f1a-915b-9651bcf52a26" />
+)
+
