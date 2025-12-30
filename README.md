@@ -21,6 +21,7 @@ Javascript: JavaScript is used to implement interactive features like Addition ,
 language used HTML ,CSS ,JAVASCRIPT
 
 #OUTPUT
-![Image](</"https://github.com/user-attachments/assets/49a0c160-eae3-4f1a-915b-9651bcf52a26" />
+![Image](<img width="1907" height="909" alt="Screenshot 2025-12-29 195018" src="https://github.com/user-attachments/assets/e9691572-e3e0-46ae-8ffa-ddbe239ed637" />
 )
+
 
